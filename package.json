@@ -4,7 +4,7 @@
   "description": "App to visualize twitter trends on a world map.",
   "main": "src/server.js",
   "scripts": {
-    "start": "node server",
+    "start": "node src/server.js",
     "dev": "nodemon server"
   },
   "author": "Hendson Szeto",
