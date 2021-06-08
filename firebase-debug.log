@@ -1,0 +1,25 @@
+[debug] [2021-06-08T02:40:05.260Z] ----------------------------------------------------------------------
+[debug] [2021-06-08T02:40:05.261Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Hendson-Desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-06-08T02:40:05.262Z] CLI Version:   9.11.0
+[debug] [2021-06-08T02:40:05.262Z] Platform:      win32
+[debug] [2021-06-08T02:40:05.262Z] Node Version:  v14.17.0
+[debug] [2021-06-08T02:40:05.263Z] Time:          Mon Jun 07 2021 19:40:05 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-06-08T02:40:05.263Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-08T02:40:05.268Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-08T02:40:05.268Z] > authorizing via signed-in user (suspended.mirror@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Hendson-Desktop\Desktop\Personal\Projects\learningCS\Projects\twitter-trends-world
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+

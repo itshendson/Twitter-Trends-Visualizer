@@ -1,0 +1,35 @@
+#title-container {
+    align-items: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    height:3%;
+    justify-content: center;
+    letter-spacing: 5px;
+}
+
+h4 {
+    border-bottom: 2px solid black;
+    border-width: 50%;
+    margin-bottom: 5px;
+    margin-top: 1px;
+    text-align: center;
+}
+
+#info-div {
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 97%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
