@@ -1,5 +1,5 @@
 {
-  "name": "trending-in-the-world",
+  "name": "twitter-trends-visualizer",
   "version": "1.0.0",
   "description": "App to visualize twitter trends on a world map.",
   "main": "src/server.js",
