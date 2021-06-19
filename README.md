@@ -1,4 +1,5 @@
 # Twitter Trends Visualizer
+[Link to Application](https://twitter-trends-world.herokuapp.com/)
 
 ## Description
 Twitter Trends Visualizer is a web application to see what topics are trending around the world. Click anywhere on the world map to see a list of trending topics in that region updated from Twitter.
