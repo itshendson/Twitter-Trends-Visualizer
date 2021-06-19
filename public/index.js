@@ -31,7 +31,7 @@ function initMap() {
     
     // Get the trending topics from Twitter API
     const api_trending = `/trending/${placeWoeId}`;
-    const trendingResponse = await await fetch(api_trending);
+    const trendingResponse = await fetch(api_trending);
     const trendingResponseJson = await trendingResponse.json();
     // console.log(trendingResponseJson);
 
