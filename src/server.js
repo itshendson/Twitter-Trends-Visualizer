@@ -13,7 +13,6 @@ app.get('/closest/:latLng', async (request, response) => {
     const latLong = request.params.latLng.split(',');
     const lat = latLong[0];
     const long = latLong[1];
-    // const bearer_token = process.env.BEARER;
     const options = {
         method: 'GET',
         headers: {
