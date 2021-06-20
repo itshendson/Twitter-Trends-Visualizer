@@ -39,7 +39,6 @@ app.get('/trending/:woeid', async (request, response) => {
     const trending_url = `https://api.twitter.com/1.1/trends/place.json?id=${woeid}`;
     const trending_response = await fetch(trending_url, options);
     const trending_response_json = await trending_response.json();
-    // console.log(trending_response_json[0].trends);
     response.json(trending_response_json);
 })
 
